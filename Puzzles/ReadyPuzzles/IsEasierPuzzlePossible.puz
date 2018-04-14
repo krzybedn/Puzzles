@@ -1,0 +1,19 @@
+Puzzles.Multidot.Multidot
+1 1 IsEasierPuzzlePossible Puzzles.Multidot.MultidotController
+Puzzles.Multidot.MultidotPoint
+{nameEnd}
+
+{nextElement}
+Puzzles.Multidot.MultidotEdge
+{nameEnd}
+True True 
+True 
+True 
+
+{nextElement}
+Puzzles.Multidot.MultidotField
+{nameEnd}
+4 
+4 
+
+
